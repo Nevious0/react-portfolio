@@ -1,0 +1,38 @@
+.my-image1 {
+  width: 100%;
+  min-height: 250px;
+}
+.my-portfolio {
+  width: 300px;
+  margin: 15px;
+  background-color: #fff;
+  border-radius: 5px;
+  padding-bottom: 15px;
+  box-shadow: 0 3px 3px rgba(104, 104, 104, 0.5);
+}
+.containers{
+  background-color: #ddd;
+}
+.my-post {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;margin-top: 40px;
+}
+h2,
+p,
+.read {
+  padding: 10px;
+  columns: #333;
+}
+.read {
+  text-decoration: none;
+  padding: 10px;
+  background-color: blueviolet;
+  color: #ddd;
+}
+
+.read:hover {
+  background-color: #1590d6;
+  color: black;
+}
